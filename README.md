@@ -1,5 +1,5 @@
 
-# Image-LoggerV2.1
+# Image-LoggerV2.2
 
 Windows 7+ required
 Disable Firewall If Logger not opening
